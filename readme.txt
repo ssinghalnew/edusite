@@ -2,7 +2,6 @@ Thank you for using our template!
 
 For more awesome templates please visit https://colorlib.com/wp/templates/
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
-
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+This template will use for website development for education portal-
+1- Vikas will write the backend on this
+2- we will host this website on AWS ec2 trial instance for your view
